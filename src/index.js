@@ -23,6 +23,11 @@ connectDB()
 
 
 
+// app.post("/api/v1/users/logout", async (req, res) =>{
+//     res.json({
+//         message: "logout success"
+//     })
+// })
 
 
 // import { MongoClient } from "mongodb";
